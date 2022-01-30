@@ -34,3 +34,7 @@ If you are already familiar with tabletop RPGs, you may wonder where Bloodheist 
 * Combat is not emphasised, although it is not discouraged either. It is considered to be one valid approach amongst many, and is resolved with the same mechanics as all other risky tasks.  
 * Thieves do not have numerical statistics, only Skills and Tools. Rather than Hit Points they have a Doom Score; an abstract metric that tracks how risky their actions are and how close they are to their Awful End.  
 * Thieves may increase in competence but not in numerical level. They will always be vulnerable to misfortune and must plan accordingly.
+
+### Where Can I Buy The Game?
+Currently PDF copies are available from [itch.io](https://graculusdroog.itch.io/bloodheist).
+You can buy print copies from [Antipode Zines](https://antipodezines.com/products/bloodheist).

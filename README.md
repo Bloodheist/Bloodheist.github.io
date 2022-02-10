@@ -2,11 +2,11 @@
 # Bloodheist 
 
 ## What is this?
-Bloodheist is a tabletop roleplaying game. You and your friends will collaboratively create the adventures of a group of criminals in a high-stakes world of supernatural suspense, sinister intrigue, and shocking betrayals. 
+_Bloodheist_ is a tabletop roleplaying game. You and your friends will collaboratively create the adventures of a group of criminals in a high-stakes world of supernatural suspense, sinister intrigue, and shocking betrayals. 
  
 One player takes the role of the Dealer. The Dealer will design the heists, describe the environments and challenges to the other players, and play the actions and personalities of the non-player characters (NPCs) the players encounter. The Dealer will present the other players with difficult choices, and narrate the consequences of their successes or failures. The Dealer should have a good grasp of the game’s rules, as they will be the final adjudicator of any confusion over their interpretation. 
   
-The rest of the players each play a single Thief. These characters are the protagonists of the story, desperate robbers trying to make their fortunes in a hostile and unpredictable world. The player’s job is to embody their Thief in an entertaining manner, to overcome the challenges posed by the Dealer, and to use their wits, skills, and dark magic to steal valuable objects from powerful vampires, and escape with their lives.
+The rest of the players each play a single Thief. These characters are the protagonists of the story, desperate robbers trying to make their fortunes in a hostile and unpredictable world. A player’s job is to embody their Thief in an entertaining manner, to overcome the challenges posed by the Dealer, and to use their wits, skills, and dark magic to steal valuable objects from powerful vampires, and escape with their lives.
  
 ### What Do I Need To Play?
 You will need:  
@@ -15,7 +15,7 @@ You will need:
 * A pencil and notepaper.  
 * Between one and five friends, and somewhere to sit and converse with them.  
 
-For the optimal experience playing Bloodheist, it is recommended you have the following:  
+For the optimal experience playing _Bloodheist_, it is recommended you have the following:  
  
 * Four six-sided dice of a light colour, and eight six-sided dice of a contrasting darker colour.   
 * A set of 52 standard playing cards.  
@@ -26,7 +26,7 @@ For the optimal experience playing Bloodheist, it is recommended you have the fo
 * A strong imagination, a sense of humour, and the ability to listen while other people speak. 
 
 ### What Is This Game Like?
-If you are already familiar with tabletop RPGs, you may wonder where Bloodheist fits into the landscape. Here are some broad design principles: 
+If you are already familiar with tabletop RPGs, you may wonder where _Bloodheist_ fits into the landscape. Here are some broad design principles: 
  
 * The game centres on groups of mortal and undead Thieves stealing a priceless object (the Prize) from a powerful vampire (the Mark) at the behest of another wealthy vampire (the Patron).  
 * The game is designed around mission-based play with a single clear objective for the Thieves. However, the Thieves are given absolute freedom to pursue this goal.  

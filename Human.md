@@ -131,7 +131,7 @@ It hasn’t brought you great fortune yet, but there is still time.
 *Ironwork*  
 An honest trade can be of use, even in dishonest company.
 
-###Minstrel
+### Minstrel
 **Tool:** 
 *Accordion*  
 It’s seen better days, but you can still get feet tapping. 

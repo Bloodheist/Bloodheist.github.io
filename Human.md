@@ -4,10 +4,10 @@
 
 ## Special Rules
 
-###Easy Prey 
+### Easy Prey 
 You cannot fight a Vampire or other Monstrosity in single combat. You must run from them, hide from them, or use an Inimical Object or Ritual to repel them. 
 
-###Unhindered 
+### Unhindered 
 You are not subject to the supernatural restrictions that afflict vampires. You can walk in sunlight, cross running water, enter buildings uninvited, and so on and so forth.
 
 ## Quick Generation
@@ -95,7 +95,7 @@ Sacrament in the Church of Dracula the Redeemer. Resembles black pudding.
 *Liturgy*  
 You could recite the Red Blessings in your sleep - and sometimes do.
 
-###Sailor
+### Sailor
 **Tool:** 
 *Flask of Grog*  
 Keeps you warm on cold nights. Highly flammable.
@@ -113,7 +113,7 @@ A neat record of everyone who owes you one.
 *Haggling*  
 You drive a hard bargain.
 
-###Poacher
+### Poacher
 **Tool:** 
 *Snap-trap*  
 Your father’s before you; his father’s before him.
@@ -122,7 +122,7 @@ Your father’s before you; his father’s before him.
 *Tracking*  
 You can stalk with the best of them.
 
-###Blacksmith
+### Blacksmith
 **Tool:** 
 *Lucky Horseshoe*  
 It hasn’t brought you great fortune yet, but there is still time.
@@ -140,7 +140,7 @@ It’s seen better days, but you can still get feet tapping.
 *Serenading*  
 The hardest hearts soften at the sound of your voice. 
 
-###Clerk
+### Clerk
 **Tool:** 
 *Fancy Pen*  
 They say it’s more powerful than the sword. You fervently hope this is true.
@@ -149,7 +149,7 @@ They say it’s more powerful than the sword. You fervently hope this is true.
 *Vampire Script*  
 Most humans never learn the secret language of vampires. You did.
 
-###Miner
+### Miner
 **Tool:** 
 *Chunk of Silver*  
 A forbidden metal, gouged from the earth’s dark womb with your own hands.
@@ -158,7 +158,7 @@ A forbidden metal, gouged from the earth’s dark womb with your own hands.
 *Tunnelling*  
 Why walk when you can dig?
 
-###Aristocrat
+### Aristocrat
 **Tool:** 
 *Ancestral Seal*  
 Commands what little respect is still afforded to your line.

@@ -29,7 +29,7 @@ The maximum number of Base Dice that can be used in a single roll is Four.
 
 *Example: Lady Bloodmist wishes to pick a lock. As standard she rolls one Base Dice. Since she has the Skill Lockpicking and the Tool Lockpicks, she can add two more Base Dice to her roll, for a total of three.*
 
-####Doom Dice
+#### Doom Dice
 When a player attempts a risky or difficult task, the Dealer will ask them to add dark-coloured d6s, known as Doom Dice, to the roll. The number of Doom Dice added is Equal to the player’s Current Doom Score.  
 
 Players can be asked to add extra Doom Dice, exceeding their current Doom Score, under the following circumstances:   
@@ -99,7 +99,7 @@ In such cases, the Dealer may defer to the Dice of Fate. The Dealer rolls one d6
 
 *Note: If you find yourself in a situation where the rules don’t seem to cover what’s happening, the Dealer should make a quick ruling that seems reasonable and move on with the narrative. After the game session, you can return to the rules dilemma as a group and discuss what should be done in future.*
 
-##Advancement
+## Advancement
 Bloodheist is designed for single-session play, in which a group of unlikely Thieves assemble and either make off with the Prize or die trying. However, if you wish to play a multi-session campaign in which the players grow stronger and more capable with each successful heist, use the following rules. 
 
 ### Earning Experience Points
